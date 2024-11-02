@@ -1,6 +1,5 @@
 {
-  "homepage": "http://maligaurav947.github.io/react-task-management",
-  "name": "react-task-management",
+  "name": "task-management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
