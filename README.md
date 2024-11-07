@@ -1,5 +1,5 @@
 # React Task Management with Priority Lists
-- Task Management
+- Task Management Application
 
 ## Features
 
