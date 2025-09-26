@@ -2,7 +2,7 @@
 
 A modern, responsive task management application built with React.js and Tailwind CSS. This application helps users organize and manage their tasks efficiently with priority-based categorization.
 
-![Task Management App Banner](public/logo192.png)
+![Task Management App Banner](public/logo.png)
 
 ## ✨ Features
 
